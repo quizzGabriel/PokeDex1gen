@@ -1,3 +1,20 @@
+ul { list-style-type: none;
+}
+
+.nav{
+display: flex;
+flex-direction: column;
+}
+
+.nav-list{
+display: flex;
+flex-wrap: wrap;
+margin: 30px;
+gap: 5px;
+align-items: center;
+}
+
+
 /* Aquí comienzan los colores de botones según tipo */
 :root {
     --clr-black: #1c1c1c;
