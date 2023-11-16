@@ -1,5 +1,6 @@
 const listaDePokemones=document.querySelector("Listadepokemones");
 
+/*
 const div=document.createElement("div");
 div.innerHTML='
 <div class="cartaPokemon" style="width: 18rem;">
@@ -31,4 +32,4 @@ div.innerHTML='
 </div>
 </div>
 </div>';
-
+*/
